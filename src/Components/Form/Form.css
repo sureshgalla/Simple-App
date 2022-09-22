@@ -1,0 +1,192 @@
+.formStyle {
+  position: absolute;
+  width: 300px;
+  height: 440px;
+  left: 1011px;
+  top: 153px;
+
+  background: rgba(11, 10, 10, 0.6);
+}
+
+.logoStyle{
+  position: absolute;
+  width: 124px;
+  height: 124px;
+  left: 90px;
+  top: -70px;
+  border-radius: 100px;
+
+  background: #FB3509;
+}
+
+.header{
+  position: absolute;
+  width: 116px;
+  height: 55px;
+  left: 100px;
+  top: 50px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21.985px;
+  line-height: 27px;
+  /* identical to box height */
+  
+  color: #FFFFFF;
+}
+
+.userName{
+  position: absolute;
+  width: 164px;
+  height: 166px;
+  left: 20px;
+  top: 90px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.8252px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.userInput{
+  width: 260px;
+  outline: 0;
+  border: 0;
+  padding: 10px 0;
+  border-bottom: 2px solid #999999;
+  background: transparent;
+  font-size: 15px;
+  color: #ffffff;
+  top:100px;
+  left: 20px;
+  position: absolute;
+  transition: 0.3 ease;
+}
+
+.password{
+  position: absolute;
+  width: 260px;
+  height: 16px;
+  left: 20px;
+  top: 160px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.8252px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: #FFFFFF;
+}
+
+.passwordInput{
+  width: 260px;
+  outline: 0;
+  border: 0;
+  padding: 10px 0;
+  border-bottom: 2px solid #999999;
+  background: transparent;
+  font-size: 15px;
+  color: #ffffff;
+  top:170px;
+  left: 20px;
+  position: absolute;
+  transition: 0.3 ease;
+}
+
+.btn{
+  position: absolute;
+  width: 260px;
+  height: 0px;
+  left: 20px;
+  top: 250px;
+  padding: 20px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17.2874px;
+  line-height: 4px;
+  /* identical to box height */
+
+  background: #FB3509;
+  border-radius: 21.5px;
+  color: #FFFFFF;
+  border-style: none;
+}
+
+.lostPassword{
+  position: absolute;
+  width: 200px;
+  height: 48px;
+  left: 20px;
+  top: 300px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8252px;
+  line-height: 16px;
+  border-style: none;
+
+  color: #BDB5B5;
+}
+
+.account{
+  position: absolute;
+  width: 142px;
+  height: 48px;
+  left: 20px;
+  top: 330px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8252px;
+  line-height: 16px;
+
+  color: #C8C4C4;
+}
+
+.userNameError{
+  position: absolute;
+  width: 260px;
+  height: 16px;
+  left: 20px;
+  top: 130px;
+  
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.8252px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: red;
+}
+
+.passwordError{
+  position: absolute;
+  width: 260px;
+  height: 16px;
+  left: 20px;
+  top: 200px;
+  
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12.8252px;
+  line-height: 16px;
+  /* identical to box height */
+
+  color: red;
+  
+}
